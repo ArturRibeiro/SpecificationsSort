@@ -1,30 +1,4 @@
 
-J
-src/ConsoleApp1/Program.cs,0\9\098299c578f856effef2a92abe2ee00b9016e7ff
-c
-3src/ConsoleApp1/Specification/ISpecificationSort.cs,d\8\d8004ac88d8da2becafb534a01b51e35b3a95bca
-o
-?src/ConsoleApp1/Specification/Imp/CompositeSpecificationSort.cs,0\8\080b757844c64be0d0fd4d788ac3c5620ac67e8a
-Y
-)src/ConsoleApp1/Specification/TypeSort.cs,0\a\0acf0cada9c2a819e13ba4fd8b032cb7ecb58f35
-P
- src/ConsoleApp1/OrdenacaoVaga.cs,2\5\254f9809036a1257ab8c56770aa464a74f2615bf
-G
-src/ConsoleApp1/Vaga.cs,e\3\e3a7e513b10a36778a0c0f6ef8604ee8d44e83fe
-N
-src/ConsoleApp1/Totalizador.cs,9\9\9950d654660b3c1534315670e0839df5d5954642
-L
-src/ConsoleApp1/VagaFaker.cs,6\e\6e4e570c3f2459d627382b878ee3891959ffe1a7
-s
-Csrc/ConsoleApp1/Specification/Imp/SortByDataEntradaSpecification.cs,d\5\d5ab98a1ca674cfef8cf391f092a140946a4437f
-N
-src/ConsoleApp1/VagaService.cs,5\b\5b714ff2af8cf8130f31a9abcc6d8639bc1f4b1b
-r
-Bsrc/ConsoleApp1/Specification/Imp/SortByTotalDoMesSpecification.cs,7\8\783306b192f8276dcfd884e1081ab21bb9cc90f9
-r
-Bsrc/ConsoleApp1/Specification/Imp/SortByTotalDoDiaSpecification.cs,9\c\9c968ddeac43fa1db0a7ac1214439a8c44d84a45
-I
-src/ConsoleApp1/Usings.cs,3\b\3bb98f4274f83b5d93533d1ffaa344d76e980c1b
 P
  src/Ordenacao.App/VagaService.cs,9\4\94c5e7055b8373a45b660c962c561912dbf4ab03
 N
@@ -49,3 +23,5 @@ t
 Dsrc/Ordenacao.App/Specification/Imp/SortByTotalDoDiaSpecification.cs,1\a\1a2408dda27ecd4dc2e61bafd7dd5176f2311045
 t
 Dsrc/Ordenacao.App/Specification/Imp/SortByTotalDoMesSpecification.cs,6\1\61ac6f63b1aad8677751201f534b2432521d6f7e
+L
+src/Ordenacao.App/Program.cs,8\d\8d852fe18d12aaca08834669e3bdb845142c5093

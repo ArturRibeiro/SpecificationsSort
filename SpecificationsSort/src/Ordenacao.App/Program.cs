@@ -16,6 +16,12 @@ Console.WriteLine("Ordenação por Total do Mês (Ascendente):");
 var sortedPorTotalMesAsc = vagaService.OrdenarVagas(vagas, OrdenacaoVaga.OrdenarPorTotalDoMes, TypeSort.Ascending);
 ImprimirVagas(sortedPorTotalMesAsc);
 
+
+var compositeSpecification = new CompositeSpecificationSort<Vaga>();
+compositeSpecification.AddSpecification(new SortByDataEntradaSpecification())
+    .AddSpecification(new SortByTotalDoDiaSpecification())
+    .AddSpecification(new SortByTotalDoMesSpecification());
+
 return;
 
 static void ImprimirVagas(List<Vaga> vagas)

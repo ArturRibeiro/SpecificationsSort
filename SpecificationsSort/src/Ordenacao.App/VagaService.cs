@@ -12,7 +12,7 @@ public class VagaService
 
         return OrdenarVagas(queryable, specification, typeSort);
     }
-    
+
     public List<Vaga> OrdenarVagas(IQueryable<Vaga> queryable, ISpecificationSort<Vaga> specification, TypeSort typeSort) 
         => specification.Apply(queryable, typeSort).ToList();
 }
