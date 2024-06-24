@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yuSpKx1JT5mDqEjMdzBIiei3Jwy+NWKAmC2KqRHIoHfkxyVw4SRTDFOCAGnkboq8zurduigubl384QYc0kHiHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artur.ribeiro\\Documents\\Git\\SpecificationsSort\\SpecificationsSort\\src\\Ordenacao.App\\Ordenacao.App.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://artifactory.softplan.com.br/artifactory/api/nuget/v3/nuget-local'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
